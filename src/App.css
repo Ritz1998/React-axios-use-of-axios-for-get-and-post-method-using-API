@@ -1,0 +1,51 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  height:100vh ;
+ background-color: black;
+  color: yellow;
+}
+.Input{
+  padding:6px;
+  margin-left: 12px;
+}
+.div2{
+  background-color: rgba(53, 189, 189, 0.39);
+  width: 550px;
+  height:550px;
+  border-radius:12px;
+ top:0;
+ left:0;
+ transform: translate(75%)
+ 
+   
+  
+}
+.header{
+  background-color: rgb(71, 231, 92);
+  border-radius:12px;
+  color: black;
+  width: 550px;
+  text-align: center;
+  
+  top:0;
+  left:0;
+  transform: translate(75%);
+}
+.btn{
+  margin-left: 8px;
+  padding: 5px;
+   font-weight: bold;
+  font-size: large;
+}
+.btn:hover{
+  background-color: rgb(92, 92, 224);
+ 
+}
+.table{
+  margin-top: 10px;
+  background-color: rgba(76, 116, 117, 0.753);
+}
+.list{
+ margin-top: 25px;
+}
